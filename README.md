@@ -11,8 +11,8 @@ This assignment reviews the paper on crossover and self-controlled study designs
 ---
 
 ## Files in This Repository
-- 'NEJM198401053100106.pdf' – PDF of the assigned reading
 - 'Fasanya_Slide.pdf' – Slides summarizing the key points from the reading
+- 'NEJM198401053100106.pdf' – PDF of the assigned reading
 - 'README.md' – Documentation of the reading assignment and overview
 
 ---
